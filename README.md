@@ -1,4 +1,4 @@
-# file2qrcode
+# file_in_qrcode
 
 This is just a simple script to convert any file to many QR code and recover the file from these QR code.
 
